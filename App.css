@@ -1,0 +1,352 @@
+
+
+.navbar {
+  width:1000;
+  height:20;
+  top:10px;
+  left:0px;
+  position: fixed;
+  font-weight:'Bold';
+  background:#0c59cf;
+  top:10px;
+  
+  
+}
+.navbrand  h1{
+  color:red;
+}
+
+
+.header-color {
+  font-family: 'Source San Pro';
+  font-style:#606060;
+  font-size: 21px;
+  font-weight:'Bold';
+  background-color:whitesmoke;
+  position: fixed;
+ /*scroll-behavior: hidden;*/
+ }
+
+.banner-text {
+  top:120px;
+  opacity: .8;
+  width: 70%;
+  margin: auto;
+  border-radius: 5px;
+  
+}
+.banner-text h1 {
+  font-family:'Source Sans Pro';
+  font-size:45px;
+  padding:100px 30px 0px 60px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:left;
+
+}
+.banner-text hr {
+  border-top:2px line white;
+  width:85%;
+  margin:auto;
+  padding-right:80px;
+  color:rgb(4, 156, 216);
+}
+.banner-text p {
+  color:#0c59cf;
+  font-size:16px;
+  padding: 0.5em;
+  padding-left: 50px;
+  text-align:left;
+  
+}
+.subtitle {
+  
+  width:80%;
+  height:80%;
+  text-align:center;
+  padding:40px 20px 50px 20px;
+
+  padding-right:1em;
+  color:rgb(4, 156, 216);
+  justify-items:center;
+}
+.subtitle h5 {
+  font-size:21px;
+  text-align:center;
+  color:#606060;
+}
+.subtitle p {
+  font-size:14px;
+  color:#606060;
+  text-align:center;
+}
+
+/*** BecomeaTutor ***/
+.title-text {
+  padding:100px 0px 40px 100px;
+  opacity: .8;
+  width: 700px;
+  margin: auto;
+  border-radius: 10px;
+  
+}
+.title-text h1 {
+  font-family: 'Source Sans Pro';
+  font-size:45px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:center;
+
+}
+.title-text p {
+  color:#606060;
+  font-size:16px;
+  padding: 0.5em;
+  text-align:center;
+  font-family: 'Source San Pro';
+}
+
+.steps {
+  
+  width:90%;
+  height:80%;
+  text-align:center;
+  padding:1px 15px 0px 20px;
+
+  padding-right:1em;
+  color:rgb(4, 156, 216);
+  justify-items:center;
+  
+}
+.steps h5 {
+  font-size:21px;
+  text-align:center;
+  color:grey;
+  
+}
+.steps p {
+  font-size:14px;
+  color:grey;
+  text-align:center;
+  
+}
+
+/*** Testimonails ***/
+.test-level  {
+  padding:110px 70px 50px 20px;
+  opacity: .8;
+  width: 750px;
+  margin: auto;
+  border-radius: 10px;
+
+}
+.test-level h1 {
+  font-family:'Source Sans Pro' ;
+  font-size:40px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:center;
+
+}
+
+.test-level p {
+  color:grey;
+  font-size:16px;
+  padding: 0.5em;
+  font-family: 'Lato';
+  text-align:center;
+}
+.stepslevel {
+  width:90%;
+  height:80%;
+  text-align:center;
+  padding:1px 20px 30px 20px;
+  border:1px solid grey;
+  padding-right:1em;
+  justify-items:center;
+  
+}
+.stepslevel p {
+  font-size:14px;
+  color:#606060;
+  text-align:center;
+  
+}
+
+/*** contactus ***/
+.containerbox {
+    width:1000px;
+    position:relative;
+    letter-spacing: 0em;
+    border: 1px solid #606060;
+    align-content:center;
+    padding:40px;
+    left:120px;
+   
+  
+  
+}
+.containerbox .head h1 {
+  color: #0c59cf;
+  font-family: 'Source Sans Pro';
+  text-align:center;
+  font-size:40px;
+ 
+ 
+}
+.containerbox .head p {
+  text-align:center;
+  font-size:15px;
+  font-family:'Lato';
+  color:#606060;
+  
+}
+
+.inputs .button {
+    position:absolute;
+    align-items:center;
+    bottom:0;
+    
+}
+.inputs .exampleForm.ControlTextarea1 {
+   border: 2px grey;
+   width:80%;
+}
+
+/*** studentsignup ***/
+.studentsignupform {
+  border:2px solid #606060;
+  padding:50px 50px 20px 50px;
+  margin-top: 120px;
+  margin-left: 60px;
+  width:570px;
+  position:center;
+}
+h5{
+  text-align: center;
+  color: #0c59cf;
+}
+ .btn{
+  margin-right:60px;
+}
+ /*** tutor request form ***/
+ .tutorrequestform {
+  border:2px solid #606060;
+  padding:70px 50px 20px 50px;
+  margin-top: 120px;
+  margin-left: 60px;
+  width:570px;
+  position:center;
+}
+h5{
+  text-align: center;
+  color: #0c59cf;
+}
+.btn{
+  margin-right:60px;
+}
+
+/*** loginform ***/
+.loginform{
+  border:2px solid #606060;
+  padding:50px 50px 20px 50px;
+  margin-top: 120px;
+  margin-left: 60px;
+  width:570px;
+  position:center;
+}
+h5{
+  text-align: center;
+  color: #0c59cf;
+}
+ .btn{
+  margin-right:60px;
+}
+
+/*** studentprofile ***/
+.studentnavbar {
+  top:5px;
+  
+  width:1270px;
+  
+  position:fixed;
+  margin-bottom:1px solid grey;
+  
+  background:#0c59cf;
+  
+}
+.nav-item {
+  font-style:black;
+}
+.justify-content-end {
+  
+  height:50px;
+  
+}
+h6{
+  margin-left:20px;
+  text-align: left;
+  color: #0c59cf;
+}
+
+.request table {
+  margin-left:20px;
+  width:1250px;
+}
+.history table {
+  margin-left:20px;
+  width:1250px;
+
+}
+
+/*** tutorprofile ***/
+.tutornavbar {
+  top:5px;
+  
+  width:1270px;
+  
+  position:fixed;
+  margin-bottom:1px solid grey;
+  
+  background:#0c59cf;
+  
+}
+.nav-item {
+  font-style:black;
+}
+.justify-content-end {
+  
+  height:50px;
+  
+}
+h6{
+  margin-left:20px;
+  text-align: left;
+  color: #0c59cf;
+}
+
+.request table {
+  margin-left:20px;
+  width:1250px;
+}
+.history table {
+  margin-left:20px;
+  width:1250px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
